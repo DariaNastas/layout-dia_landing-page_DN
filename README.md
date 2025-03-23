@@ -5,6 +5,14 @@
 This is a modern, stylish, and fully responsive **Landing Page**.  
 Built with the latest web technologies, it ensures a **seamless experience** across all devices.  
 
+## Demo Preview  
+*Check out how the site looks in action!* - The page is responsive and automatically adapts to different screen sizes, including mobile phones, tablets, and desktops.
+**[Live Demo](https://darianastas.github.io/layout-dia_landing-page_DN/)**  
+
+## Design Reference (Figma Mockup):
+- [Air](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)?node-id=9138%3A35)
+
+
 ## Technologies Used  
 
 | Technology  | Purpose |
@@ -12,37 +20,32 @@ Built with the latest web technologies, it ensures a **seamless experience** acr
 | ![HTML](https://img.shields.io/badge/-HTML-orange) | Page structure |
 | ![CSS](https://img.shields.io/badge/-CSS-blue) | Styling |
 | ![SCSS](https://img.shields.io/badge/-SCSS-pink) | Improved styling structure |
+| ![SCSS](https://img.shields.io/badge/-JavaScript-gren) | Dynamic behavior & interactivity |
 | ![Flexbox](https://img.shields.io/badge/-Flexbox-red) | Layout positioning |
 | ![Grid](https://img.shields.io/badge/-Grid-green) | Advanced layout system |
 | ![BEM](https://img.shields.io/badge/-BEM-purple) | CSS methodology |
 
+
 ## Features  
 
 ✔ **Fully Responsive** – Adapts to **mobile, tablet, and desktop**  
-✔ **SCSS-powered styling** for better maintainability  
+✔ **SCSS-powered styling** for better maintainability   
+✔ **JavaScript-powered** interactivity & dynamic content   
 ✔ **BEM methodology** for structured class naming  
 ✔ **Animations & transformations** for smooth user interaction  
 
-## Demo Preview  
-*Check out how the site looks in action!* - The page is responsive and automatically adapts to different screen sizes, including mobile phones, tablets, and desktops.
-**[Live Demo](https://darianastas.github.io/layout-dia_landing-page_DN/)**  
-
-## Design Reference:
-- [Nothing](https://www.figma.com/design/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia))?node-id=0-1&p=f&t=XJyRkJOU6GnYXmlq-0)
-
-
 ## Download and Installation
-Fork the Repository
+**Fork the Repository**
 - Go to the original repository: **layout-dia_landing-page_DN**
 - Click the Fork button in the top-right corner to create a copy in your GitHub account.
   
-Clone the Project
+**Clone the Project**
 - Once the fork is created, clone it to your local machine:
 *git clone https://github.com/YOUR_GITHUB_USERNAME/layout-dia_landing-page_DN.git*
 - Navigate to the project folder:
 *cd layout-dia_landing-page_DN*
 
-Install Dependencies  
+**Install Dependencies**
 - Before running the project, install all required dependencies:  
 *npm install*
 
